@@ -17,4 +17,4 @@ This iteration of Fwitter focuses on creating forms. The forms in this lesson ar
   * we can use the params hash to create new instances of our tweet class
   * The post route gets redirected back to the home page to display the new tweets
 
-<a href='https://learn.co/lessons/hs-fwitter-2-forms' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-fwitter-2-forms' title='Forms!'>Forms!</a> on Learn.co and start learning to code for free.</p>
